@@ -4,6 +4,7 @@
       template: '#template-layout'
     });
   
+    // entry point
     var App = Mn.Application.extend({
       region: '#app',
   
